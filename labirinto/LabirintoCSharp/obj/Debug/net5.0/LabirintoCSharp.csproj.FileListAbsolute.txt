@@ -1,0 +1,16 @@
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.exe
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.deps.json
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.runtimeconfig.json
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.dll
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\bin\Debug\net5.0\LabirintoCSharp.pdb
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.AssemblyInfo.cs
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.sourcelink.json
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.dll
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\obj\Debug\net5.0\refint\LabirintoCSharp.dll
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.pdb
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\obj\Debug\net5.0\LabirintoCSharp.genruntimeconfig.cache
+C:\Users\carlo\source\repos\LabirintoCSharp\labirinto\LabirintoCSharp\obj\Debug\net5.0\ref\LabirintoCSharp.dll
